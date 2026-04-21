@@ -1,7 +1,8 @@
 ---
-description: Guidelines and best practices for building Convex projects, including database schema design, queries, mutations, and real-world examples
-globs: **/*.ts,**/*.tsx,**/*.js,**/*.jsx
+name: convex
+description: Guidelines and best practices for building Convex projects — schema design, queries, mutations, HTTP endpoints, validators, and real-world examples. Use when writing or editing Convex code (files under convex/ or any .ts/.tsx/.js/.jsx that imports from convex).
 ---
+
 
 # Convex guidelines
 
